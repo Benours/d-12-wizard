@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "D12_wizard",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

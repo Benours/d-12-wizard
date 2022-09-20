@@ -1,0 +1,8 @@
+{
+  "name": "D12_wizard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2635e09a"
+}
